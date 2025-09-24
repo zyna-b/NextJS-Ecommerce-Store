@@ -230,13 +230,7 @@ If you encounter any issues or have questions:
 - **Clerk** - For authentication services
 - **Tailwind CSS** - For utility-first CSS framework
 - **Cloudinary** - For image optimization services
-
-## 🔗 Links
-
-- **Live Demo** - [View Application](https://your-demo-url.com)
-- **Documentation** - [Project Wiki](https://github.com/zyna-b/NextJS-Ecommerce-Store/wiki)
-- **Changelog** - [Release Notes](https://github.com/zyna-b/NextJS-Ecommerce-Store/releases)
-
+  
 ---
 
 Built with ❤️ using **Next.js** and **TypeScript**
